@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bnf:home|Door43 (bnf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bnf|d43-bnf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bnf/archive/master.zip|d43-bnf.zip]]
+
+**Recent Changes**
+{{changes>ns = bnf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bnf|Ethnologue data]]
+
